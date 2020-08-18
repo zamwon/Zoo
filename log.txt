@@ -1,0 +1,27 @@
+23:28:28.945435700, INFO, Create zoo singleton
+23:31:12.682393900, INFO, Create zoo singleton
+23:31:12.696385700, ERROR, Cannot create another zoo - zoo already exist
+01:23:43.793135600, INFO, Create zoo singleton
+01:23:43.814125800, ERROR, Cannot create another zoo - zoo already exist
+01:53:54.916641700, INFO, Create zoo singleton
+01:53:54.929634300, ERROR, Cannot create another zoo - zoo already exist
+02:26:07.904297, INFO, Create zoo singleton
+02:26:07.923284600, ERROR, Cannot create another zoo - zoo already exist
+02:28:24.183042200, INFO, Create zoo singleton
+02:28:24.197033600, ERROR, Cannot create another zoo - zoo already exist
+02:29:51.832148200, INFO, Create zoo singleton
+02:29:51.845139200, ERROR, Cannot create another zoo - zoo already exist
+02:30:09.197594300, INFO, Create zoo singleton
+02:30:09.218581400, ERROR, Cannot create another zoo - zoo already exist
+02:32:51.104922800, INFO, Create zoo singleton
+02:32:51.124912200, ERROR, Cannot create another zoo - zoo already exist
+10:05:27.714818300, INFO, Create zoo singleton
+10:05:27.731809600, ERROR, Cannot create another zoo - zoo already exist
+11:57:19.940364300, INFO, Create zoo singleton
+11:57:19.953356100, ERROR, Cannot create another zoo - zoo already exist
+11:57:46.883912300, INFO, Create zoo singleton
+11:57:46.898903200, ERROR, Cannot create another zoo - zoo already exist
+11:58:33.795910700, INFO, Create zoo singleton
+11:58:33.809903400, ERROR, Cannot create another zoo - zoo already exist
+11:58:56.906924100, INFO, Create zoo singleton
+11:58:56.922914500, ERROR, Cannot create another zoo - zoo already exist
